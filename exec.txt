@@ -1,0 +1,14 @@
+Instalando: pip install virtualenv
+
+Criando: 
+virtualenv nome_da_virtualenv
+
+virtualenv -p python3 .
+
+Ativando: source nome_da_virtualenv/bin/activate
+
+Desativando: deactivate
+
+Criando Req: pip freeze > requirements.txt
+
+Executando: jupyter-lab

@@ -1,0 +1,43 @@
+1. forma de capa: sino = b, cônico = c, convexo = x, plano = f, saliente = k, afundado = s
+
+2. superfície da capa: fibrosa = f, ranhuras = g, escamosa = y, lisa = s
+
+3. cor da tampa: marrom = n, amarelo-claro = b, canela = c, cinza = g, verde = r, rosa = p, roxo = u, vermelho = e, branco = w, amarelo = y
+
+4. hematomas ?: hematomas = t, não = f
+
+5. odor: amêndoa = a, anis = l, creosoto = c, peixe = y, fétido = f, mofo = m, nenhum = n, picante = p, picante = s
+
+6. fixação de brânquia: anexado = a, descendente = d, livre = f, entalhado = n
+
+7. espaçamento de guelras: próximo = c, lotado = w, distante = d
+
+8. tamanho da guelra: largo = b, estreito = n
+
+9. cor das guelras: preto = k, marrom = n, amarelo-claro = b, chocolate = h, cinza = g, verde = r, laranja = o, rosa = p, roxo = u, vermelho = e, branco = w, amarelo = y
+
+10. formato de haste: ampliação = e, afilamento = t
+
+11. raiz do caule: bulboso = b, clube = c, xícara = u, igual = e, rizomorfos = z, enraizado = r, ausente =?
+
+12. superfície do caule acima do anel: fibroso = f, escamoso = y, sedoso = k, liso = s
+
+13. superfície do caule abaixo do anel: fibroso = f, escamoso = y, sedoso = k, liso = s
+
+14. haste-cor-acima do anel: marrom = n, amarelo-claro = b, canela = c, cinza = g, laranja = o, rosa = p, vermelho = e, branco = w, amarelo = y
+
+15. haste-cor-abaixo do anel: marrom = n, amarelo-claro = b, canela = c, cinza = g, laranja = o, rosa = p, vermelho = e, branco = w, amarelo = y
+
+16. tipo de véu: parcial = p, universal = u
+
+17. cor do véu: marrom = n, laranja = o, branco = w, amarelo = y
+
+18. número do anel: nenhum = n, um = o, dois = t
+
+19. tipo de anel: teia de aranha = c, evanescente = e, alargamento = f, grande = l, nenhum = n, pendente = p, revestimento = s, zona = z
+
+20. spore-print-color: black = k, brown = n, buff = b, chocolate = h, green = r, orange = o, purple = u, white = w, yellow = y
+
+21. população: abundante = a, agrupado = c, numeroso = n, espalhado = s, vários = v, solitário = y
+
+22. habitat: gramíneas = g, folhas = l, prados = m, caminhos = p, urbano = u, resíduos = w, bosques = d
